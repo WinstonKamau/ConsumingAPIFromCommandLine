@@ -11,5 +11,5 @@ pylint==1.7.2
 requests==2.18.3
 six==1.10.0
 -e git+https://github.com/WinstonKamau/ConsumingAPIFromCommandLine.git@64fa52cbe580a31306238b5302af9cc7ee37c17d#egg=space
-urllib3==1.22
+urllib3==1.24.2
 wrapt==1.10.11
